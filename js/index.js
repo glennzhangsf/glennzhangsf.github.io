@@ -1,1 +1,1 @@
-document.getElementById('date').innerHTML = new Date().toDateString();
+document.getElementById('todaysdate').innerHTML = new Date().toDateString();
